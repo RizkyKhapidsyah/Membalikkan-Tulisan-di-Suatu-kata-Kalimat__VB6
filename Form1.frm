@@ -50,7 +50,5 @@ Dim strTampung As String
 End Function
 
 Private Sub Form_Load()
-  Text1.Text = "Rahmat Putra"
+Text1.Text = "Rizky Khapidsyah"
 End Sub
-
-
